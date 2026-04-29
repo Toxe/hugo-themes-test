@@ -5,3 +5,18 @@ theme = "beautifulhugo"
 
 [taxonomies]
   tag = 'tags'
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Posts"
+    url = "posts"
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
