@@ -5,3 +5,21 @@ theme = "PaperMod"
 
 [taxonomies]
   tag = 'tags'
+
+[outputs]
+  home = ['html', 'rss', 'json']
+
+[[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 1
+
+[[menu.main]]
+    name = "Search"
+    url = "search/"
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 3
