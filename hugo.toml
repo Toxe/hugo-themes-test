@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'My Fancy Blog or Whatever'
+theme = "PaperMod"
 
 [taxonomies]
   tag = 'tags'
