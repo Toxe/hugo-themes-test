@@ -1,6 +1,5 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My Fancy Blog or Whatever'
+theme = "blowfish"
 
 [taxonomies]
   tag = 'tags'
