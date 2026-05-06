@@ -1,6 +1,13 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'My Fancy Blog or Whatever'
+theme = "FixIt"
 
 [taxonomies]
-  tag = 'tags'
+_merge = "shallow"
+
+[markup]
+_merge = "shallow"
+
+[outputs]
+_merge = "shallow"
