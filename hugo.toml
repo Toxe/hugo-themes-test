@@ -1,4 +1,4 @@
-baseURL = 'https://www.toxe.net/hugo/beautifulhugo/'
+baseURL = 'https://www.toxe.net/hugo/beautifulhugo-theme/'
 locale = 'en-us'
 title = 'My Fancy Blog or Whatever'
 theme = "beautifulhugo"
