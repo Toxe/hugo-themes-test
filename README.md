@@ -1,0 +1,20 @@
+# Hugo Themes Test
+
+A comparison of different [Hugo](https://gohugo.io) themes.
+
+Each theme has its own branch, for example the PaperMod test is inside the `papermod-theme` branch.
+
+|                 |  my-theme |                                           Beautiful Hugo |                                          Blowfish |                                              Clarity |                                           FixIt |                                                    PaperMod |
+| --------------- | --------: | -------------------------------------------------------: | ------------------------------------------------: | ---------------------------------------------------: | ----------------------------------------------: | ----------------------------------------------------------: |
+| Branch          |  my-theme |                                      beautifulhugo-theme |                                    blowfish-theme |                                        clarity-theme |                                     fixit-theme |                                              papermod-theme |
+| Homepage        |         – | [Homepage](https://hugo-theme-beautifulhugo.netlify.app) |                 [Homepage](https://blowfish.page) |                                                    – |            [Homepage](https://fixit.lruihao.cn) |  [Homepage](https://adityatelange.github.io/hugo-PaperMod/) |
+| Repository      |         – |    [GitHub](https://github.com/halogenica/beautifulhugo) | [GitHub](https://github.com/nunocoracao/blowfish) | [GitHub](https://github.com/chipzoller/hugo-clarity) |   [GitHub](https://github.com/hugo-fixit/FixIt) |    [GitHub](https://github.com/adityatelange/hugo-PaperMod) |
+| Demo            |         – |                                                        – |                                                 – |                      [Demo](https://neonmirrors.net) |           [Demo](https://demo.fixit.lruihao.cn) |                                                           – |
+| Documentation   |         – |                                                        – |               [Docs](https://blowfish.page/docs/) |                                                    – | [Docs](https://fixit.lruihao.cn/documentation/) | [Wiki](https://github.com/adityatelange/hugo-PaperMod/wiki) |
+| `themes/`       |   21.3 KB |                                                   6.4 MB |                                           68.6 MB |                                               4.3 MB |                                         16.9 MB |                                                    497.7 KB |
+| `public/`       |    2.8 MB |                                                   9.1 MB |                                            3.4 MB |                                               4.3 MB |                                          4.6 MB |                                                      3.0 MB |
+| `public/posts/` |    2.7 MB |                                                   2.8 MB |                                            3.0 MB |                                               2.8 MB |                                          2.8 MB |                                                      2.8 MB |
+| `public/css/`   | 368 Bytes |                                                   1.5 MB |                                          115.0 KB |                                              97.8 KB |                                        216.6 KB |                                                     17.6 KB |
+| `public/js/`    | 204 Bytes |                                                   1.1 MB |                                           34.9 KB |                                              72.6 KB |                                         39.9 KB |                                                     18.2 KB |
+
+> Note: The image `posts/new-blog/big.jpg` alone is already 2.7 MB big.
