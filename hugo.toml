@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.toxe.net/hugo/my-theme/'
 locale = 'en-us'
 title = 'My Fancy Blog or Whatever'
 theme = "my-theme"
